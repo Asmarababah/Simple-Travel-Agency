@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Simple-Travel-Agency/static/css/main.a56e9a1a.css",
+    "main.js": "/Simple-Travel-Agency/static/js/main.8d75e778.js",
+    "static/js/787.1249e43a.chunk.js": "/Simple-Travel-Agency/static/js/787.1249e43a.chunk.js",
+    "static/media/turkey1.png": "/Simple-Travel-Agency/static/media/turkey1.704e93d77df6f0e8dfdb.png",
+    "static/media/dubai.png": "/Simple-Travel-Agency/static/media/dubai.c83d4d17f9fda178d93a.png",
+    "static/media/background1.png": "/Simple-Travel-Agency/static/media/background1.3552818f131f64aeedd7.png",
+    "static/media/istanbul.png": "/Simple-Travel-Agency/static/media/istanbul.aa4c0f06bdbba3e09d92.png",
+    "static/media/ghard.png": "/Simple-Travel-Agency/static/media/ghard.f18c6b8f5fe58b8f36be.png",
+    "static/media/borsa.png": "/Simple-Travel-Agency/static/media/borsa.19b197e71c21428b017f.png",
+    "static/media/sharm.png": "/Simple-Travel-Agency/static/media/sharm.37cf3766dfcc25254686.png",
+    "static/media/logo.png": "/Simple-Travel-Agency/static/media/logo.e67a8ec033e8f5fac4c3.png",
+    "static/media/emarat.png": "/Simple-Travel-Agency/static/media/emarat.3463b08a57707872a2f6.png",
+    "static/media/dhadi.png": "/Simple-Travel-Agency/static/media/dhadi.737d98fc864ef9e17f76.png",
+    "static/media/masr.png": "/Simple-Travel-Agency/static/media/masr.0d8e324acd875f5ff82e.png",
+    "index.html": "/Simple-Travel-Agency/index.html",
+    "main.a56e9a1a.css.map": "/Simple-Travel-Agency/static/css/main.a56e9a1a.css.map",
+    "main.8d75e778.js.map": "/Simple-Travel-Agency/static/js/main.8d75e778.js.map",
+    "787.1249e43a.chunk.js.map": "/Simple-Travel-Agency/static/js/787.1249e43a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a56e9a1a.css",
+    "static/js/main.8d75e778.js"
+  ]
+}
