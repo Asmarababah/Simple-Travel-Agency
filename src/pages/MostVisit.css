@@ -1,0 +1,33 @@
+.container-coun{
+    display: flex;
+    flex-direction:  row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.country-information{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: auto;
+    width: auto;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+.title{
+    text-align: center;
+    margin-bottom: 70px;
+    margin-top: 30px; 
+    text-shadow: 0 1px 1px  #022c43;
+}
+.country-information p{
+text-align:inherit;
+font-weight: bold;
+  width: 300px;
+}
+.container-coun *{
+    color: #022c43;
+}
+.container-coun *:hover{
+    color: #54b5e8 !important;
+}

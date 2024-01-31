@@ -1,0 +1,70 @@
+{
+  "mostVisited": [
+    {
+      "id": 1,
+      "name": "Turkey",
+      "caption": "The best places to visit, Borsa, Istanbul, Sabanja, Antalya, Trabzon.",
+      "price": "299jd - 350jd"
+    },
+    {
+      "id": 1,
+      "name": "Eygpt",
+      "caption": "The best places to visit, Cairo, Sharm-Alshaikh, Giza, Hurgada.",
+      "price": "200jd - 270jd"
+    },
+    {
+      "id": 1,
+      "name": "Emairates",
+      "caption": "The best places to visit, Dubai, Abu-Dhabi, Al-Ain, Al-Shariqa.",
+      "price": "350jd - 450jd"
+    }
+  ],
+  "turkey": [
+    {
+      "id": 1,
+      "name": "Istanbul",
+      "season": "Winter",
+      "caption": "The best places to visit, Borsa, Istanbul, Sabanja, Antalya, Trabzon.",
+      "price": "299jd - 350jd"
+    },
+    {
+      "id": 1,
+      "name": "Borsa",
+      "season": "Winter",
+      "caption": "The best places to visit, Cairo, Sharm-Alshaikh, Giza, Hurgada.",
+      "price": "200jd - 270jd"
+    }
+  ],
+  "eygpt": [
+    {
+      "id": 1,
+      "name": "Sharm-AlShaikh",
+      "season": "Winter",
+      "caption": "The best places to visit, Borsa, Istanbul, Sabanja, Antalya, Trabzon.",
+      "price": "299jd - 350jd"
+    },
+    {
+      "id": 1,
+      "name": "Hurdaga",
+      "season": "Winter",
+      "caption": "The best places to visit, Cairo, Sharm-Alshaikh, Giza, Hurgada.",
+      "price": "200jd - 270jd"
+    }
+  ],
+  "emarat": [
+    {
+      "id": 1,
+      "name": "Dubai",
+      "season": "Winter",
+      "caption": "The best places to visit, Borsa, Istanbul, Sabanja, Antalya, Trabzon.",
+      "price": "299jd - 350jd"
+    },
+    {
+      "id": 1,
+      "name": "Abu-Dhabi",
+      "season": "Winter",
+      "caption": "The best places to visit, Cairo, Sharm-Alshaikh, Giza, Hurgada.",
+      "price": "200jd - 270jd"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+header {
+    padding-top: 50px;
+    color: #022c43;
+    /* background-image: linear-gradient(#afc5ff, white); */
+    font-family: Arial, Helvetica, sans-serif;
+}
+.col-md-4 img {
+    width: 430px;
+    height: 500px;
+    margin-left: 20px;
+}
+.col-md-8 {
+    margin-top: 70px;
+}
+.col-md-8 * {
+    padding: 20px;
+}
+
+h1{
+    margin-top: 150px;
+    text-align: center;
+}
+.images {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 30px;
+    display: flex;
+    flex: 1 1 100%;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+ .images .image img {
+    height: 370px;
+    width: 300px;
+   
+}
+
+.images div img:hover {
+    height: 380px;
+    width: 310px;
+    transition: 0.2s ease-in-out;
+}
+
+.images div h4 {
+    text-align: center;
+    font-size: 1em;
+    color: black;
+}
+.a{
+    /* width: 100px;
+    height: 100px;
+    background: red; */
+    position: relative;
+    animation: mymove 6s infinite;
+    animation-delay: 3s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: 200px; font-weight: bold;}
+}
+
+.a:hover{
+    animation-play-state: paused
+}
+/* p{
+    position: relative;
+    animation: mymove 7s infinite;
+    animation-delay: 5s;
+
+  }
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: 250px; }
+} */
+
+/* 
+@media screen and (max-width: 700px) {
+    .images {
+        display: none;
+    }
+} */
+
+.article1{
+    align-items: center;
+}
+.article1 .button1{
+    display: flex;
+}

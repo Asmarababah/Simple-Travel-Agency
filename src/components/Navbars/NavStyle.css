@@ -1,0 +1,52 @@
+.bg-body-tertiary {
+    background-image: radial-gradient(white , white ) !important;
+    font-size: 1em;
+    font-weight: bold;
+
+}
+#nav {
+    position: fixed ;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-bottom: 2px solid #afc5ff; 
+}
+.bg-body-tertiary * {
+    color: #022c43;
+}
+
+.bg-body-tertiary img {
+    height: 60px;
+    width: 60px;
+   
+
+}
+
+#container {
+    margin-left: 10px;
+}
+
+.dropdown-menu a {
+    color:#022c43;
+    margin-left: 0 !important;
+}
+.dropdown-menu a:hover {
+    color: #afc5ff;
+}
+.navbar-nav a:hover{
+color: #022c43;
+border-bottom: 2px solid #022c43;
+border-top: 2px solid #022c43;
+border-radius: 5px;
+font-size: 1.1em;
+transition: 0.15s ease-out;
+}
+.navbar-nav a{
+margin-left: 50px;
+letter-spacing: 1px;
+}
+.phone {
+    height: 20px !important;
+    width: 20px !important;
+}
+

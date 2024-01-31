@@ -1,0 +1,98 @@
+{
+  "mostVisited": [
+    {
+      "id": "1",
+      "name": "Turkey",
+      "caption": "The best places to visit, Borsa, Istanbul, Sabanja, Antalya, Trabzon.",
+      "price": "299jd - 350jd"
+    },
+    {
+      "id": "2",
+      "name": "Eygpt",
+      "caption": "The best places to visit, Cairo, Sharm-Alshaikh, Giza, Hurgada.",
+      "price": "200jd - 270jd"
+    },
+    {
+      "id": "3",
+      "name": "Emairates",
+      "caption": "The best places to visit, Dubai, Abu-Dhabi, Al-Ain, Al-Shariqa.",
+      "price": "350jd - 450jd"
+    }
+  ],
+  "turkey": [
+    {
+      "id": "4",
+      "name": "Istanbul",
+      "season": "Winter",
+      "caption": "The best places to visit, Borsa, Istanbul, Sabanja, Antalya, Trabzon.",
+      "price": "299jd - 350jd",
+      "image": "/borsa.png"
+    },
+    {
+      "id": "5",
+      "name": "Borsa",
+      "season": "Winter",
+      "caption": "The best places to visit, Cairo, Sharm-Alshaikh, Giza, Hurgada.",
+      "price": "200jd - 270jd",
+      "image": "/istanbul.png"
+    }
+  ],
+  "eygpt": [
+    {
+      "id": "6",
+      "name": "Sharm-AlShaikh",
+      "season": "Winter",
+      "caption": "The best places to visit, Borsa, Istanbul, Sabanja, Antalya, Trabzon.",
+      "price": "299jd - 350jd"
+    },
+    {
+      "id": "7",
+      "name": "Hurdaga",
+      "season": "Winter",
+      "caption": "The best places to visit, Cairo, Sharm-Alshaikh, Giza, Hurgada.",
+      "price": "200jd - 270jd"
+    }
+  ],
+  "emarat": [
+    {
+      "id": "8",
+      "name": "Dubai",
+      "season": "Winter",
+      "caption": "The best places to visit, Borsa, Istanbul, Sabanja, Antalya, Trabzon.",
+      "price": "299jd - 350jd"
+    },
+    {
+      "id": "9",
+      "name": "Abu-Dhabi",
+      "season": "Winter",
+      "caption": "The best places to visit, Cairo, Sharm-Alshaikh, Giza, Hurgada.",
+      "price": "200jd - 270jd"
+    }
+  ],
+  "comments": [
+    {
+      "name": "Asma",
+      "email": "asma@gmail.com",
+      "details": "لقد كانت تجربتي رائعه وهكذا\n\n\nتعديل*********8\nتعديل 22222222\n\n\n\n\nتعديل 3\nتعديل 5",
+      "trip": "Jordan",
+      "picture": "",
+      "id": 1
+    },
+    {
+      "name": "Ahmad",
+      "email": "ahmad@gmail.com",
+      "details": "hi iam ahmad\ni was here at winter and i interested with your company\nthank you\n************",
+      "trip": "Istanbul",
+      "picture": "",
+      "id": 2
+    },
+    {
+      "name": "Ahmad",
+      "email": "ahmad@gmail.com",
+      "details": "hi my experience is very good \n**********",
+      "trip": "Antalya",
+      "picture": "",
+      "id": 3
+    }
+  ]
+}
